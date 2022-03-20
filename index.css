@@ -23,20 +23,20 @@ body{
 
 #page-loader circle:nth-child(3){
   stroke: #ff5248;
-  stroke-dasharray: 100;
+  stroke-dasharray: 50;
  
   }
 
   #page-loader circle:nth-child(2){
     stroke: #19cdca;
-    stroke-dasharray: 180;
+    stroke-dasharray: 50;
     
     }
 
     #page-loader circle:nth-child(1){
       stroke: #4e80e1;
       stroke-dasharray: 200;
-      stroke-dashoffset: -100;
+      
       }
     
       @keyframes loader {
